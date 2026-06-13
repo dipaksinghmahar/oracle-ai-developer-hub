@@ -3,6 +3,17 @@
 This repository contains technical resources to help AI Developers and Engineers build AI applications, agents, and systems using Oracle AI Database and OCI services alongside other key components of the AI/Agent stack.
 
 ## What You'll Find
+User
+  ↓
+React Frontend
+  ↓
+FastAPI Backend
+  ↓
+Oracle AI Database
+  ↓
+Vector Search
+  ↓
+LLM Response
 
 This repository is organized into several key areas:
 
